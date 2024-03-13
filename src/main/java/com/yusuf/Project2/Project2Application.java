@@ -1,0 +1,13 @@
+package com.yusuf.Project2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Project2Application {
+
+	public static void main(String[] args) throws Throwable {
+		SpringApplication.run(Project2Application.class, args);
+	}
+
+}
